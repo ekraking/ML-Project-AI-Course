@@ -55,8 +55,8 @@
 
 | النموذج                 | Accuracy | F1-score (Weighted Avg) |
 | ------------------------ | :------: | :---------------------: |
-| **Logistic Regression** |  `XX.X%` |         `X.XX`          |
-| **K-Nearest Neighbors** |  `XX.X%` |         `X.XX`          |
+| **Logistic Regression** |  `0.07` |         `0.03`          |
+| **K-Nearest Neighbors** |  `0.06` |         `0.05`          |
 
 ---
 
