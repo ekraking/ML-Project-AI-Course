@@ -95,7 +95,7 @@
 
 4.  **شغّل سكربت التحليل:**
     ```bash
-    python analysis.py
+    python MLProject.ipynb
     ```
 
 ---
@@ -107,10 +107,9 @@
 │   └── data1.csv
 ├── 📂 images/
 │   └── ... (All plots)
-├── 📜 analysis.py
+├── 📜 MLProject.ipynb
 ├── 📜 .gitignore
-├── 📜 README.md
-└── 📜 requirements.txt
+└── 📜 README.md
 ```
 
 ---
